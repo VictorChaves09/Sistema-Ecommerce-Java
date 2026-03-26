@@ -1,6 +1,5 @@
 package Produto;
 
-import Atores.ClientObserver;
 import Atores.Cliente;
 import jakarta.persistence.EntityManager;
 

@@ -1,6 +1,5 @@
 package Produto;
 
-import DatabaseConnection.DatabaseConnectionSingleton;
 import jakarta.persistence.*;
 import Atores.Cliente;
 

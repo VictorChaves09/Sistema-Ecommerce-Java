@@ -1,7 +1,6 @@
 package Produto;
 
 import Atores.Cliente;
-import DatabaseConnection.DatabaseConnectionSingleton;
 import jakarta.persistence.*;
 import java.util.ArrayList;
 import java.util.Iterator;
